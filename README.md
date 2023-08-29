@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-This analysis will use linear regression to predict housing prices based on neighbourhood housing prices in California.
+This analysis utilizes linear regression to predict housing prices based on neighbourhood housing prices in California.
 
 
 ## Objectives
