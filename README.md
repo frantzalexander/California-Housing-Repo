@@ -23,7 +23,7 @@ This analysis will use linear regression to predict housing prices based on neig
     
 - A linear regression model was not the correct model for this dataset.
 - The house price distribution was bimodal.
-- This indicates that the model would be influenced by two groups with different characteristics.
+- This indicates that the target feature consists of two groups with different characteristics.
    
 ## Process
 ```mermaid
