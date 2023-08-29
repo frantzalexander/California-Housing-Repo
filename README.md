@@ -6,7 +6,7 @@ This analysis will use linear regression to predict housing prices based on neig
 
 
 ## Objectives
-- Build a model to predict housing prices.
+- Build a Linear Regression Model to predict housing prices.
 - Evaluate the dataset features for use in the model.
 - Determine the feature importances.
 
@@ -20,8 +20,11 @@ This analysis will use linear regression to predict housing prices based on neig
     2. Median Age
     3. Number of rooms
     4. Distance to the coastline.
-
-
+    
+- A linear regression model was not the correct model for this dataset.
+- The house price distribution was bimodal.
+- This indicates that the model would be influenced by two groups with different characteristics.
+   
 ## Process
 ```mermaid
 flowchart TD
