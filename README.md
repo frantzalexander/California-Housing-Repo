@@ -11,6 +11,8 @@ This analysis utilizes linear regression to predict housing prices based on neig
 - Determine the feature importances.
 
 ## Results
+- The house price distribution was bimodal.
+    - This indicates that the target feature consists of two groups with different characteristics.
 - The Training Mean Absolute Error: 52050.32
 - The Test Mean Absolute Error: 54180.78
 - The most valuable neighborhoods were in cities especially along the coastline.
@@ -21,9 +23,7 @@ This analysis utilizes linear regression to predict housing prices based on neig
     3. Number of rooms
     4. Distance to the coastline.
     
-- A linear regression model was not the correct model for this dataset.
-- The house price distribution was bimodal.
-- This indicates that the target feature consists of two groups with different characteristics.
+
    
 ## Process
 ```mermaid
